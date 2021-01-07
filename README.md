@@ -30,6 +30,8 @@ I learned so much working on this project. I only wish I had more time to spend 
 A challenge I overcame included this error: terminating with uncaught exception of type NSException. It turns out that the 'billAmountTextField' wasn't had extra
 Thank you for your consideration.
 
+![Tipu App Icon I made using Adobe Illustrator](hhttps://i.ibb.co/tJXychY/Final-logo-3x.png)
+
 ## License
 
     Copyright 2020 Mimi Almero
