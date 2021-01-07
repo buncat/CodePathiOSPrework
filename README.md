@@ -12,19 +12,23 @@ Time spent: **10-12** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ X] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/dvmPZye99VnSEK39wv/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with Giphy (https://giphy.com/).
+Note: The Top Navigation bar is yellow because it's the simulator's default color. I didn't choose that color.
 
 ## Notes
-I wish I had more time to spend working on this, but I only recently learned about the free 6-week program. Thank you for your consideration.
+I learned so much working on this project. I only wish I had more time to spend working on this, so I could've completed the extra features. Unfortunately, I only learned about the 6-week program recently. I was initially going to do the CSN class, but I was unable to afford it. Nonetheless, I very grateful for this opportunity to possibly join the CodePath iOS Spring 2021 6-Week program. 
+
+A challenge I overcame included this error: terminating with uncaught exception of type NSException. It turns out that the 'billAmountTextField' wasn't had extra
+Thank you for your consideration.
 
 ## License
 
