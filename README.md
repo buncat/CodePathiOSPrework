@@ -6,7 +6,7 @@
 
 Submitted by: **Mimi Almero**
 
-Time spent: **12** hours spent in total
+Time spent: **10-12** hours spent in total
 
 ## User Stories
 
@@ -24,8 +24,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+I wish I had more time to spend working on this, but I only recently learned about the free 6-week program. Thank you for your consideration.
 
 ## License
 
